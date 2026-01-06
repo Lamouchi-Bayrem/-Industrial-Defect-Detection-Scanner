@@ -65,6 +65,7 @@ A GUI tool for scanning manufactured parts (e.g., circuit boards) via camera to 
 
 ### Exporting Results
 
+ 
 - **Save Result**: Save the annotated image with defect markings
 - **Export Report**: Generate a CSV report with detailed defect information
 
@@ -79,16 +80,7 @@ A GUI tool for scanning manufactured parts (e.g., circuit boards) via camera to 
    - Circularity (how close to a circle)
 5. **Visualization**: Draw color-coded annotations
 
-## Report Format
 
-CSV reports include:
-- Summary statistics (total defects, area, status)
-- Defect type breakdown
-- Detailed defect list with:
-  - Defect ID and type
-  - Area measurements (mm² and pixels)
-  - Bounding box coordinates
-  - Aspect ratio and circularity
 
 ## Project Structure
 
@@ -152,6 +144,7 @@ For accurate measurements:
 ## License
 
 This project is provided as-is for educational and portfolio purposes.
+
 
 
 
