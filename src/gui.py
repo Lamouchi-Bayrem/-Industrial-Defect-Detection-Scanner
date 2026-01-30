@@ -1,7 +1,4 @@
-"""
-GUI Module for Industrial Defect Detection Scanner
-Tkinter-based interface with image display, controls, and reporting
-"""
+
 
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
