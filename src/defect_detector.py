@@ -5,8 +5,7 @@ Detects defects in manufactured parts using edge detection and contour analysis
 
 import cv2
 import numpy as np
-from typing import List, Tuple, Dict
-
+from typing import List, Tuple, Dict
 
 class DefectDetector:
     """Detects defects in industrial parts"""
