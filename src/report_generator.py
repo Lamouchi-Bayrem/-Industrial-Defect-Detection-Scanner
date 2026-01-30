@@ -1,8 +1,7 @@
 """
 Report Generator Module
 Generates CSV reports for defect detection results
-"""
-
+"""
 import csv
 from datetime import datetime
 from pathlib import Path
