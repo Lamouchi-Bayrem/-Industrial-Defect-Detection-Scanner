@@ -1,6 +1,7 @@
 # Industrial Defect Detection Scanner
 
 A GUI tool for scanning manufactured parts (e.g., circuit boards) via camera to detect defects like cracks or misalignments using edge detection and anomaly spotting.
+<img width="1920" height="1020" alt="python_i8d0tdilTb" src="https://github.com/user-attachments/assets/38c09721-d9ef-4b48-9f42-9d653faa69df" />
 
 ## Features
 
@@ -153,6 +154,7 @@ For accurate measurements:
 ## License
 
 This project is provided as-is for educational and portfolio purposes.
+
 
 
 
